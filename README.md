@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+Testing
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/Rf_jKzB3SLY/mqdefault_6s.webp?du=3000&sqp=CLqWx4cG&rs=AOn4CLDLBdYZRbkgUvQa7C2bbZBW_6MJ1A)](https://www.youtube.com/watch?v=Rf_jKzB3SLY)
+
 **gazedash/gazedash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
