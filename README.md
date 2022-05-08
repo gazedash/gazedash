@@ -1,14 +1,17 @@
-<!--
+
 ### Hi there 👋
 
-Testing
+- 💻 I’m a front-end web developer working at Tinkoff Bank
+- 🏄 Currently I'm exploring the world, living a digital nomad life
+- Big fan of 🎵 music, 🎮 games and 🎥 movies
+- ✍️ I have a [blog](https://gazedash.com/all/whoami/) where I write about everything, really
+- ₿ Interested in crypto and NFT
 
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/an_webp/Rf_jKzB3SLY/mqdefault_6s.webp?du=3000&sqp=CLqWx4cG&rs=AOn4CLDLBdYZRbkgUvQa7C2bbZBW_6MJ1A)](https://www.youtube.com/watch?v=Rf_jKzB3SLY)
+Don't hesitate, hit me up:
 
-**gazedash/gazedash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[E-Mail](mailto:gazedash@gmail.com) [Telegram](https://t.me/gazedash) [LinkedIn](https://www.linkedin.com/in/gazedash/) [Resume](https://gazedash.github.io/resume/)
 
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
