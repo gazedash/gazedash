@@ -9,7 +9,7 @@
 
 Don't hesitate, hit me up:
 
-[E-Mail](mailto:gazedash@gmail.com) [Telegram](https://t.me/gazedash) [LinkedIn](https://www.linkedin.com/in/gazedash/) [Resume](https://gazedash.github.io/resume/)
+[E-Mail](mailto:gazedash@gmail.com) [Telegram](https://t.me/gazedash) [LinkedIn](https://www.linkedin.com/in/gazedash/) [Resume](https://gazedash.com/resume)
 
 <!--
 - 🔭 I’m currently working on ...
