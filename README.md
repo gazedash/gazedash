@@ -5,7 +5,8 @@
 - 🏄 Currently I'm exploring the world, living a digital nomad life
 - Big fan of 🎵 music, 🎮 games and 🎥 movies
 - ✍️ I have a [blog](https://gazedash.com/all/whoami/) where I write about everything, really
-- ₿ Interested in crypto and NFT
+- ₿ Interested in crypto
+- Want To Build
 
 Don't hesitate, hit me up:
 
